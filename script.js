@@ -20,5 +20,5 @@ const list2 = [false, false, false];
 console.log(countSheeps(list1));
 // There are 17 sheep in total
 console.log(countSheeps(list2));
-// UPS!!! Wolfs S eatenheeps
+// UPS!!! Wolfs eaten Sheeps
  
